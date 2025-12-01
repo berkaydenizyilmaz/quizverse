@@ -1,0 +1,3402 @@
+[
+  {
+    "id": 1,
+    "user_id": 4,
+    "question_id": 44,
+    "quiz_id": 1,
+    "seen_at": "2025-01-01T20:57:29.603Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "B"
+  },
+  {
+    "id": 2,
+    "user_id": 4,
+    "question_id": 43,
+    "quiz_id": 1,
+    "seen_at": "2025-01-01T20:57:29.603Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "B"
+  },
+  {
+    "id": 3,
+    "user_id": 4,
+    "question_id": 40,
+    "quiz_id": 1,
+    "seen_at": "2025-01-01T20:57:29.603Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "B"
+  },
+  {
+    "id": 4,
+    "user_id": 4,
+    "question_id": 36,
+    "quiz_id": 1,
+    "seen_at": "2025-01-01T20:57:29.603Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "A"
+  },
+  {
+    "id": 5,
+    "user_id": 4,
+    "question_id": 39,
+    "quiz_id": 1,
+    "seen_at": "2025-01-01T20:57:29.603Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "A"
+  },
+  {
+    "id": 6,
+    "user_id": 4,
+    "question_id": 42,
+    "quiz_id": 1,
+    "seen_at": "2025-01-01T20:57:29.603Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "B"
+  },
+  {
+    "id": 7,
+    "user_id": 4,
+    "question_id": 35,
+    "quiz_id": 1,
+    "seen_at": "2025-01-01T20:57:29.603Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "B"
+  },
+  {
+    "id": 8,
+    "user_id": 4,
+    "question_id": 38,
+    "quiz_id": 1,
+    "seen_at": "2025-01-01T20:57:29.603Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "A"
+  },
+  {
+    "id": 9,
+    "user_id": 4,
+    "question_id": 37,
+    "quiz_id": 1,
+    "seen_at": "2025-01-01T20:57:29.603Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "B"
+  },
+  {
+    "id": 10,
+    "user_id": 4,
+    "question_id": 41,
+    "quiz_id": 1,
+    "seen_at": "2025-01-01T20:57:29.603Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "B"
+  },
+  {
+    "id": 11,
+    "user_id": 4,
+    "question_id": 65,
+    "quiz_id": 2,
+    "seen_at": "2025-01-01T21:05:44.721Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "B"
+  },
+  {
+    "id": 12,
+    "user_id": 4,
+    "question_id": 72,
+    "quiz_id": 2,
+    "seen_at": "2025-01-01T21:05:44.721Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "D"
+  },
+  {
+    "id": 13,
+    "user_id": 4,
+    "question_id": 71,
+    "quiz_id": 2,
+    "seen_at": "2025-01-01T21:05:44.721Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "B"
+  },
+  {
+    "id": 14,
+    "user_id": 4,
+    "question_id": 67,
+    "quiz_id": 2,
+    "seen_at": "2025-01-01T21:05:44.721Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "A"
+  },
+  {
+    "id": 15,
+    "user_id": 4,
+    "question_id": 70,
+    "quiz_id": 2,
+    "seen_at": "2025-01-01T21:05:44.721Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "D"
+  },
+  {
+    "id": 16,
+    "user_id": 4,
+    "question_id": 68,
+    "quiz_id": 2,
+    "seen_at": "2025-01-01T21:05:44.721Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "C"
+  },
+  {
+    "id": 17,
+    "user_id": 4,
+    "question_id": 69,
+    "quiz_id": 2,
+    "seen_at": "2025-01-01T21:05:44.721Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "B"
+  },
+  {
+    "id": 18,
+    "user_id": 4,
+    "question_id": 66,
+    "quiz_id": 2,
+    "seen_at": "2025-01-01T21:05:44.721Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "A"
+  },
+  {
+    "id": 19,
+    "user_id": 4,
+    "question_id": 74,
+    "quiz_id": 2,
+    "seen_at": "2025-01-01T21:05:44.721Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "D"
+  },
+  {
+    "id": 20,
+    "user_id": 4,
+    "question_id": 73,
+    "quiz_id": 2,
+    "seen_at": "2025-01-01T21:05:44.721Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "D"
+  },
+  {
+    "id": 21,
+    "user_id": 4,
+    "question_id": 125,
+    "quiz_id": 3,
+    "seen_at": "2025-01-01T21:08:52.329Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "D"
+  },
+  {
+    "id": 22,
+    "user_id": 4,
+    "question_id": 128,
+    "quiz_id": 3,
+    "seen_at": "2025-01-01T21:08:52.329Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "D"
+  },
+  {
+    "id": 23,
+    "user_id": 4,
+    "question_id": 126,
+    "quiz_id": 3,
+    "seen_at": "2025-01-01T21:08:52.329Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "D"
+  },
+  {
+    "id": 24,
+    "user_id": 4,
+    "question_id": 127,
+    "quiz_id": 3,
+    "seen_at": "2025-01-01T21:08:52.329Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "D"
+  },
+  {
+    "id": 25,
+    "user_id": 4,
+    "question_id": 130,
+    "quiz_id": 3,
+    "seen_at": "2025-01-01T21:08:52.329Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "C"
+  },
+  {
+    "id": 26,
+    "user_id": 4,
+    "question_id": 129,
+    "quiz_id": 3,
+    "seen_at": "2025-01-01T21:08:52.329Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "B"
+  },
+  {
+    "id": 27,
+    "user_id": 4,
+    "question_id": 131,
+    "quiz_id": 3,
+    "seen_at": "2025-01-01T21:08:52.329Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "B"
+  },
+  {
+    "id": 28,
+    "user_id": 4,
+    "question_id": 132,
+    "quiz_id": 3,
+    "seen_at": "2025-01-01T21:08:52.329Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "A"
+  },
+  {
+    "id": 29,
+    "user_id": 4,
+    "question_id": 134,
+    "quiz_id": 3,
+    "seen_at": "2025-01-01T21:08:52.329Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "B"
+  },
+  {
+    "id": 30,
+    "user_id": 4,
+    "question_id": 133,
+    "quiz_id": 3,
+    "seen_at": "2025-01-01T21:08:52.329Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "C"
+  },
+  {
+    "id": 31,
+    "user_id": 10,
+    "question_id": 72,
+    "quiz_id": 4,
+    "seen_at": "2025-01-01T21:36:59.948Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "A"
+  },
+  {
+    "id": 32,
+    "user_id": 10,
+    "question_id": 68,
+    "quiz_id": 4,
+    "seen_at": "2025-01-01T21:36:59.948Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "A"
+  },
+  {
+    "id": 33,
+    "user_id": 10,
+    "question_id": 70,
+    "quiz_id": 4,
+    "seen_at": "2025-01-01T21:36:59.948Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "C"
+  },
+  {
+    "id": 34,
+    "user_id": 10,
+    "question_id": 67,
+    "quiz_id": 4,
+    "seen_at": "2025-01-01T21:36:59.948Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "B"
+  },
+  {
+    "id": 35,
+    "user_id": 10,
+    "question_id": 69,
+    "quiz_id": 4,
+    "seen_at": "2025-01-01T21:36:59.948Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "A"
+  },
+  {
+    "id": 36,
+    "user_id": 10,
+    "question_id": 74,
+    "quiz_id": 4,
+    "seen_at": "2025-01-01T21:36:59.948Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "C"
+  },
+  {
+    "id": 37,
+    "user_id": 10,
+    "question_id": 73,
+    "quiz_id": 4,
+    "seen_at": "2025-01-01T21:36:59.948Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "A"
+  },
+  {
+    "id": 38,
+    "user_id": 10,
+    "question_id": 66,
+    "quiz_id": 4,
+    "seen_at": "2025-01-01T21:36:59.948Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "C"
+  },
+  {
+    "id": 39,
+    "user_id": 10,
+    "question_id": 65,
+    "quiz_id": 4,
+    "seen_at": "2025-01-01T21:36:59.948Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "C"
+  },
+  {
+    "id": 40,
+    "user_id": 10,
+    "question_id": 71,
+    "quiz_id": 4,
+    "seen_at": "2025-01-01T21:36:59.948Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "B"
+  },
+  {
+    "id": 41,
+    "user_id": 11,
+    "question_id": 102,
+    "quiz_id": 5,
+    "seen_at": "2025-01-02T04:43:21.799Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "B"
+  },
+  {
+    "id": 42,
+    "user_id": 11,
+    "question_id": 98,
+    "quiz_id": 5,
+    "seen_at": "2025-01-02T04:43:21.799Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "C"
+  },
+  {
+    "id": 43,
+    "user_id": 11,
+    "question_id": 104,
+    "quiz_id": 5,
+    "seen_at": "2025-01-02T04:43:21.799Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "B"
+  },
+  {
+    "id": 44,
+    "user_id": 11,
+    "question_id": 97,
+    "quiz_id": 5,
+    "seen_at": "2025-01-02T04:43:21.799Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "C"
+  },
+  {
+    "id": 45,
+    "user_id": 11,
+    "question_id": 100,
+    "quiz_id": 5,
+    "seen_at": "2025-01-02T04:43:21.799Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "B"
+  },
+  {
+    "id": 46,
+    "user_id": 11,
+    "question_id": 99,
+    "quiz_id": 5,
+    "seen_at": "2025-01-02T04:43:21.799Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "C"
+  },
+  {
+    "id": 47,
+    "user_id": 11,
+    "question_id": 103,
+    "quiz_id": 5,
+    "seen_at": "2025-01-02T04:43:21.799Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "C"
+  },
+  {
+    "id": 48,
+    "user_id": 11,
+    "question_id": 96,
+    "quiz_id": 5,
+    "seen_at": "2025-01-02T04:43:21.799Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "A"
+  },
+  {
+    "id": 49,
+    "user_id": 11,
+    "question_id": 101,
+    "quiz_id": 5,
+    "seen_at": "2025-01-02T04:43:21.799Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "A"
+  },
+  {
+    "id": 50,
+    "user_id": 11,
+    "question_id": 95,
+    "quiz_id": 5,
+    "seen_at": "2025-01-02T04:43:21.799Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "C"
+  },
+  {
+    "id": 51,
+    "user_id": 12,
+    "question_id": 39,
+    "quiz_id": 6,
+    "seen_at": "2025-01-02T09:57:10.579Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "C"
+  },
+  {
+    "id": 52,
+    "user_id": 12,
+    "question_id": 38,
+    "quiz_id": 6,
+    "seen_at": "2025-01-02T09:57:10.579Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "B"
+  },
+  {
+    "id": 53,
+    "user_id": 12,
+    "question_id": 42,
+    "quiz_id": 6,
+    "seen_at": "2025-01-02T09:57:10.579Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "B"
+  },
+  {
+    "id": 54,
+    "user_id": 12,
+    "question_id": 41,
+    "quiz_id": 6,
+    "seen_at": "2025-01-02T09:57:10.579Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "B"
+  },
+  {
+    "id": 55,
+    "user_id": 12,
+    "question_id": 40,
+    "quiz_id": 6,
+    "seen_at": "2025-01-02T09:57:10.579Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "B"
+  },
+  {
+    "id": 56,
+    "user_id": 12,
+    "question_id": 43,
+    "quiz_id": 6,
+    "seen_at": "2025-01-02T09:57:10.579Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "B"
+  },
+  {
+    "id": 57,
+    "user_id": 12,
+    "question_id": 35,
+    "quiz_id": 6,
+    "seen_at": "2025-01-02T09:57:10.579Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "B"
+  },
+  {
+    "id": 58,
+    "user_id": 12,
+    "question_id": 36,
+    "quiz_id": 6,
+    "seen_at": "2025-01-02T09:57:10.579Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "A"
+  },
+  {
+    "id": 59,
+    "user_id": 12,
+    "question_id": 37,
+    "quiz_id": 6,
+    "seen_at": "2025-01-02T09:57:10.579Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "B"
+  },
+  {
+    "id": 60,
+    "user_id": 12,
+    "question_id": 44,
+    "quiz_id": 6,
+    "seen_at": "2025-01-02T09:57:10.579Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "B"
+  },
+  {
+    "id": 61,
+    "user_id": 12,
+    "question_id": 125,
+    "quiz_id": 7,
+    "seen_at": "2025-01-02T09:59:39.424Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "C"
+  },
+  {
+    "id": 62,
+    "user_id": 12,
+    "question_id": 126,
+    "quiz_id": 7,
+    "seen_at": "2025-01-02T09:59:39.424Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "C"
+  },
+  {
+    "id": 63,
+    "user_id": 12,
+    "question_id": 132,
+    "quiz_id": 7,
+    "seen_at": "2025-01-02T09:59:39.424Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "C"
+  },
+  {
+    "id": 64,
+    "user_id": 12,
+    "question_id": 129,
+    "quiz_id": 7,
+    "seen_at": "2025-01-02T09:59:39.424Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "C"
+  },
+  {
+    "id": 65,
+    "user_id": 12,
+    "question_id": 134,
+    "quiz_id": 7,
+    "seen_at": "2025-01-02T09:59:39.424Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "D"
+  },
+  {
+    "id": 66,
+    "user_id": 12,
+    "question_id": 131,
+    "quiz_id": 7,
+    "seen_at": "2025-01-02T09:59:39.424Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "C"
+  },
+  {
+    "id": 67,
+    "user_id": 12,
+    "question_id": 133,
+    "quiz_id": 7,
+    "seen_at": "2025-01-02T09:59:39.424Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "B"
+  },
+  {
+    "id": 68,
+    "user_id": 12,
+    "question_id": 128,
+    "quiz_id": 7,
+    "seen_at": "2025-01-02T09:59:39.424Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "A"
+  },
+  {
+    "id": 69,
+    "user_id": 12,
+    "question_id": 130,
+    "quiz_id": 7,
+    "seen_at": "2025-01-02T09:59:39.424Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "C"
+  },
+  {
+    "id": 70,
+    "user_id": 12,
+    "question_id": 127,
+    "quiz_id": 7,
+    "seen_at": "2025-01-02T09:59:39.424Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "B"
+  },
+  {
+    "id": 71,
+    "user_id": 12,
+    "question_id": 163,
+    "quiz_id": 8,
+    "seen_at": "2025-01-02T10:01:21.512Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "A"
+  },
+  {
+    "id": 72,
+    "user_id": 12,
+    "question_id": 158,
+    "quiz_id": 8,
+    "seen_at": "2025-01-02T10:01:21.512Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "A"
+  },
+  {
+    "id": 73,
+    "user_id": 12,
+    "question_id": 161,
+    "quiz_id": 8,
+    "seen_at": "2025-01-02T10:01:21.512Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "A"
+  },
+  {
+    "id": 74,
+    "user_id": 12,
+    "question_id": 155,
+    "quiz_id": 8,
+    "seen_at": "2025-01-02T10:01:21.512Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "B"
+  },
+  {
+    "id": 75,
+    "user_id": 12,
+    "question_id": 160,
+    "quiz_id": 8,
+    "seen_at": "2025-01-02T10:01:21.512Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "B"
+  },
+  {
+    "id": 76,
+    "user_id": 12,
+    "question_id": 159,
+    "quiz_id": 8,
+    "seen_at": "2025-01-02T10:01:21.512Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "A"
+  },
+  {
+    "id": 77,
+    "user_id": 12,
+    "question_id": 156,
+    "quiz_id": 8,
+    "seen_at": "2025-01-02T10:01:21.512Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "A"
+  },
+  {
+    "id": 78,
+    "user_id": 12,
+    "question_id": 162,
+    "quiz_id": 8,
+    "seen_at": "2025-01-02T10:01:21.512Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "A"
+  },
+  {
+    "id": 79,
+    "user_id": 12,
+    "question_id": 157,
+    "quiz_id": 8,
+    "seen_at": "2025-01-02T10:01:21.512Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "A"
+  },
+  {
+    "id": 80,
+    "user_id": 12,
+    "question_id": 164,
+    "quiz_id": 8,
+    "seen_at": "2025-01-02T10:01:21.512Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "A"
+  },
+  {
+    "id": 81,
+    "user_id": 13,
+    "question_id": 43,
+    "quiz_id": 9,
+    "seen_at": "2025-01-02T14:10:00.369Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "B"
+  },
+  {
+    "id": 82,
+    "user_id": 13,
+    "question_id": 37,
+    "quiz_id": 9,
+    "seen_at": "2025-01-02T14:10:00.369Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "B"
+  },
+  {
+    "id": 83,
+    "user_id": 13,
+    "question_id": 44,
+    "quiz_id": 9,
+    "seen_at": "2025-01-02T14:10:00.369Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "B"
+  },
+  {
+    "id": 84,
+    "user_id": 13,
+    "question_id": 40,
+    "quiz_id": 9,
+    "seen_at": "2025-01-02T14:10:00.369Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "B"
+  },
+  {
+    "id": 85,
+    "user_id": 13,
+    "question_id": 35,
+    "quiz_id": 9,
+    "seen_at": "2025-01-02T14:10:00.369Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "B"
+  },
+  {
+    "id": 86,
+    "user_id": 13,
+    "question_id": 38,
+    "quiz_id": 9,
+    "seen_at": "2025-01-02T14:10:00.369Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "A"
+  },
+  {
+    "id": 87,
+    "user_id": 13,
+    "question_id": 41,
+    "quiz_id": 9,
+    "seen_at": "2025-01-02T14:10:00.369Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "B"
+  },
+  {
+    "id": 88,
+    "user_id": 13,
+    "question_id": 36,
+    "quiz_id": 9,
+    "seen_at": "2025-01-02T14:10:00.369Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "A"
+  },
+  {
+    "id": 89,
+    "user_id": 13,
+    "question_id": 42,
+    "quiz_id": 9,
+    "seen_at": "2025-01-02T14:10:00.369Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "B"
+  },
+  {
+    "id": 90,
+    "user_id": 13,
+    "question_id": 39,
+    "quiz_id": 9,
+    "seen_at": "2025-01-02T14:10:00.369Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "D"
+  },
+  {
+    "id": 91,
+    "user_id": 13,
+    "question_id": 47,
+    "quiz_id": 10,
+    "seen_at": "2025-01-02T14:11:55.992Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "B"
+  },
+  {
+    "id": 92,
+    "user_id": 13,
+    "question_id": 45,
+    "quiz_id": 10,
+    "seen_at": "2025-01-02T14:11:55.992Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "B"
+  },
+  {
+    "id": 93,
+    "user_id": 13,
+    "question_id": 46,
+    "quiz_id": 10,
+    "seen_at": "2025-01-02T14:11:55.992Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "C"
+  },
+  {
+    "id": 94,
+    "user_id": 13,
+    "question_id": 50,
+    "quiz_id": 10,
+    "seen_at": "2025-01-02T14:11:55.992Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "B"
+  },
+  {
+    "id": 95,
+    "user_id": 13,
+    "question_id": 48,
+    "quiz_id": 10,
+    "seen_at": "2025-01-02T14:11:55.992Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "B"
+  },
+  {
+    "id": 96,
+    "user_id": 13,
+    "question_id": 51,
+    "quiz_id": 10,
+    "seen_at": "2025-01-02T14:11:55.992Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "C"
+  },
+  {
+    "id": 97,
+    "user_id": 13,
+    "question_id": 49,
+    "quiz_id": 10,
+    "seen_at": "2025-01-02T14:11:55.992Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "D"
+  },
+  {
+    "id": 98,
+    "user_id": 13,
+    "question_id": 52,
+    "quiz_id": 10,
+    "seen_at": "2025-01-02T14:11:55.992Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "C"
+  },
+  {
+    "id": 99,
+    "user_id": 13,
+    "question_id": 54,
+    "quiz_id": 10,
+    "seen_at": "2025-01-02T14:11:55.992Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "C"
+  },
+  {
+    "id": 100,
+    "user_id": 13,
+    "question_id": 53,
+    "quiz_id": 10,
+    "seen_at": "2025-01-02T14:11:55.992Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "C"
+  },
+  {
+    "id": 101,
+    "user_id": 13,
+    "question_id": 56,
+    "quiz_id": 11,
+    "seen_at": "2025-01-02T14:13:43.276Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "C"
+  },
+  {
+    "id": 102,
+    "user_id": 13,
+    "question_id": 59,
+    "quiz_id": 11,
+    "seen_at": "2025-01-02T14:13:43.276Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "C"
+  },
+  {
+    "id": 103,
+    "user_id": 13,
+    "question_id": 62,
+    "quiz_id": 11,
+    "seen_at": "2025-01-02T14:13:43.276Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "C"
+  },
+  {
+    "id": 104,
+    "user_id": 13,
+    "question_id": 57,
+    "quiz_id": 11,
+    "seen_at": "2025-01-02T14:13:43.276Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "A"
+  },
+  {
+    "id": 105,
+    "user_id": 13,
+    "question_id": 55,
+    "quiz_id": 11,
+    "seen_at": "2025-01-02T14:13:43.276Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "B"
+  },
+  {
+    "id": 106,
+    "user_id": 13,
+    "question_id": 60,
+    "quiz_id": 11,
+    "seen_at": "2025-01-02T14:13:43.276Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "A"
+  },
+  {
+    "id": 107,
+    "user_id": 13,
+    "question_id": 61,
+    "quiz_id": 11,
+    "seen_at": "2025-01-02T14:13:43.276Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "C"
+  },
+  {
+    "id": 108,
+    "user_id": 13,
+    "question_id": 58,
+    "quiz_id": 11,
+    "seen_at": "2025-01-02T14:13:43.276Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "B"
+  },
+  {
+    "id": 109,
+    "user_id": 13,
+    "question_id": 63,
+    "quiz_id": 11,
+    "seen_at": "2025-01-02T14:13:43.276Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "C"
+  },
+  {
+    "id": 110,
+    "user_id": 13,
+    "question_id": 64,
+    "quiz_id": 11,
+    "seen_at": "2025-01-02T14:13:43.276Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "B"
+  },
+  {
+    "id": 111,
+    "user_id": 13,
+    "question_id": 218,
+    "quiz_id": 12,
+    "seen_at": "2025-01-02T14:19:24.514Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "A"
+  },
+  {
+    "id": 112,
+    "user_id": 13,
+    "question_id": 219,
+    "quiz_id": 12,
+    "seen_at": "2025-01-02T14:19:24.514Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "B"
+  },
+  {
+    "id": 113,
+    "user_id": 13,
+    "question_id": 215,
+    "quiz_id": 12,
+    "seen_at": "2025-01-02T14:19:24.514Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "A"
+  },
+  {
+    "id": 114,
+    "user_id": 13,
+    "question_id": 216,
+    "quiz_id": 12,
+    "seen_at": "2025-01-02T14:19:24.514Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "A"
+  },
+  {
+    "id": 115,
+    "user_id": 13,
+    "question_id": 214,
+    "quiz_id": 12,
+    "seen_at": "2025-01-02T14:19:24.514Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "B"
+  },
+  {
+    "id": 116,
+    "user_id": 13,
+    "question_id": 220,
+    "quiz_id": 12,
+    "seen_at": "2025-01-02T14:19:24.514Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "A"
+  },
+  {
+    "id": 117,
+    "user_id": 13,
+    "question_id": 217,
+    "quiz_id": 12,
+    "seen_at": "2025-01-02T14:19:24.514Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "A"
+  },
+  {
+    "id": 118,
+    "user_id": 13,
+    "question_id": 221,
+    "quiz_id": 12,
+    "seen_at": "2025-01-02T14:19:24.514Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "A"
+  },
+  {
+    "id": 119,
+    "user_id": 13,
+    "question_id": 222,
+    "quiz_id": 12,
+    "seen_at": "2025-01-02T14:19:24.514Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "A"
+  },
+  {
+    "id": 120,
+    "user_id": 13,
+    "question_id": 223,
+    "quiz_id": 12,
+    "seen_at": "2025-01-02T14:19:24.514Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "A"
+  },
+  {
+    "id": 121,
+    "user_id": 1,
+    "question_id": 35,
+    "quiz_id": 13,
+    "seen_at": "2025-01-02T14:51:32.792Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "A"
+  },
+  {
+    "id": 122,
+    "user_id": 1,
+    "question_id": 38,
+    "quiz_id": 13,
+    "seen_at": "2025-01-02T14:51:32.792Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "D"
+  },
+  {
+    "id": 123,
+    "user_id": 1,
+    "question_id": 44,
+    "quiz_id": 13,
+    "seen_at": "2025-01-02T14:51:32.792Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "C"
+  },
+  {
+    "id": 124,
+    "user_id": 1,
+    "question_id": 36,
+    "quiz_id": 13,
+    "seen_at": "2025-01-02T14:51:32.792Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "B"
+  },
+  {
+    "id": 125,
+    "user_id": 1,
+    "question_id": 37,
+    "quiz_id": 13,
+    "seen_at": "2025-01-02T14:51:32.792Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "A"
+  },
+  {
+    "id": 126,
+    "user_id": 1,
+    "question_id": 39,
+    "quiz_id": 13,
+    "seen_at": "2025-01-02T14:51:32.792Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "D"
+  },
+  {
+    "id": 127,
+    "user_id": 1,
+    "question_id": 40,
+    "quiz_id": 13,
+    "seen_at": "2025-01-02T14:51:32.792Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "C"
+  },
+  {
+    "id": 128,
+    "user_id": 1,
+    "question_id": 43,
+    "quiz_id": 13,
+    "seen_at": "2025-01-02T14:51:32.792Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "A"
+  },
+  {
+    "id": 129,
+    "user_id": 1,
+    "question_id": 41,
+    "quiz_id": 13,
+    "seen_at": "2025-01-02T14:51:32.792Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "B"
+  },
+  {
+    "id": 130,
+    "user_id": 1,
+    "question_id": 42,
+    "quiz_id": 13,
+    "seen_at": "2025-01-02T14:51:32.792Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "A"
+  },
+  {
+    "id": 131,
+    "user_id": 1,
+    "question_id": 54,
+    "quiz_id": 14,
+    "seen_at": "2025-01-02T16:03:33.158Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "B"
+  },
+  {
+    "id": 132,
+    "user_id": 1,
+    "question_id": 53,
+    "quiz_id": 14,
+    "seen_at": "2025-01-02T16:03:33.158Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "D"
+  },
+  {
+    "id": 133,
+    "user_id": 1,
+    "question_id": 45,
+    "quiz_id": 14,
+    "seen_at": "2025-01-02T16:03:33.158Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "D"
+  },
+  {
+    "id": 134,
+    "user_id": 1,
+    "question_id": 49,
+    "quiz_id": 14,
+    "seen_at": "2025-01-02T16:03:33.158Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "D"
+  },
+  {
+    "id": 135,
+    "user_id": 1,
+    "question_id": 46,
+    "quiz_id": 14,
+    "seen_at": "2025-01-02T16:03:33.158Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "D"
+  },
+  {
+    "id": 136,
+    "user_id": 1,
+    "question_id": 50,
+    "quiz_id": 14,
+    "seen_at": "2025-01-02T16:03:33.158Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "D"
+  },
+  {
+    "id": 137,
+    "user_id": 1,
+    "question_id": 51,
+    "quiz_id": 14,
+    "seen_at": "2025-01-02T16:03:33.158Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "D"
+  },
+  {
+    "id": 138,
+    "user_id": 1,
+    "question_id": 48,
+    "quiz_id": 14,
+    "seen_at": "2025-01-02T16:03:33.158Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "D"
+  },
+  {
+    "id": 139,
+    "user_id": 1,
+    "question_id": 52,
+    "quiz_id": 14,
+    "seen_at": "2025-01-02T16:03:33.158Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "D"
+  },
+  {
+    "id": 140,
+    "user_id": 1,
+    "question_id": 47,
+    "quiz_id": 14,
+    "seen_at": "2025-01-02T16:03:33.158Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "D"
+  },
+  {
+    "id": 141,
+    "user_id": 1,
+    "question_id": 59,
+    "quiz_id": 15,
+    "seen_at": "2025-01-02T16:06:49.656Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "A"
+  },
+  {
+    "id": 142,
+    "user_id": 1,
+    "question_id": 64,
+    "quiz_id": 15,
+    "seen_at": "2025-01-02T16:06:49.656Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "B"
+  },
+  {
+    "id": 143,
+    "user_id": 1,
+    "question_id": 60,
+    "quiz_id": 15,
+    "seen_at": "2025-01-02T16:06:49.656Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "D"
+  },
+  {
+    "id": 144,
+    "user_id": 1,
+    "question_id": 61,
+    "quiz_id": 15,
+    "seen_at": "2025-01-02T16:06:49.656Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "C"
+  },
+  {
+    "id": 145,
+    "user_id": 1,
+    "question_id": 58,
+    "quiz_id": 15,
+    "seen_at": "2025-01-02T16:06:49.656Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "B"
+  },
+  {
+    "id": 146,
+    "user_id": 1,
+    "question_id": 63,
+    "quiz_id": 15,
+    "seen_at": "2025-01-02T16:06:49.656Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "A"
+  },
+  {
+    "id": 147,
+    "user_id": 1,
+    "question_id": 62,
+    "quiz_id": 15,
+    "seen_at": "2025-01-02T16:06:49.656Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "D"
+  },
+  {
+    "id": 148,
+    "user_id": 1,
+    "question_id": 57,
+    "quiz_id": 15,
+    "seen_at": "2025-01-02T16:06:49.656Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "C"
+  },
+  {
+    "id": 149,
+    "user_id": 1,
+    "question_id": 55,
+    "quiz_id": 15,
+    "seen_at": "2025-01-02T16:06:49.656Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "A"
+  },
+  {
+    "id": 150,
+    "user_id": 1,
+    "question_id": 56,
+    "quiz_id": 15,
+    "seen_at": "2025-01-02T16:06:49.656Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "C"
+  },
+  {
+    "id": 151,
+    "user_id": 1,
+    "question_id": 73,
+    "quiz_id": 16,
+    "seen_at": "2025-01-02T16:07:46.518Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "A"
+  },
+  {
+    "id": 152,
+    "user_id": 1,
+    "question_id": 74,
+    "quiz_id": 16,
+    "seen_at": "2025-01-02T16:07:46.518Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "D"
+  },
+  {
+    "id": 153,
+    "user_id": 1,
+    "question_id": 67,
+    "quiz_id": 16,
+    "seen_at": "2025-01-02T16:07:46.518Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "D"
+  },
+  {
+    "id": 154,
+    "user_id": 1,
+    "question_id": 65,
+    "quiz_id": 16,
+    "seen_at": "2025-01-02T16:07:46.518Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "D"
+  },
+  {
+    "id": 155,
+    "user_id": 1,
+    "question_id": 68,
+    "quiz_id": 16,
+    "seen_at": "2025-01-02T16:07:46.518Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "D"
+  },
+  {
+    "id": 156,
+    "user_id": 1,
+    "question_id": 66,
+    "quiz_id": 16,
+    "seen_at": "2025-01-02T16:07:46.518Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "D"
+  },
+  {
+    "id": 157,
+    "user_id": 1,
+    "question_id": 70,
+    "quiz_id": 16,
+    "seen_at": "2025-01-02T16:07:46.518Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "D"
+  },
+  {
+    "id": 158,
+    "user_id": 1,
+    "question_id": 69,
+    "quiz_id": 16,
+    "seen_at": "2025-01-02T16:07:46.518Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "D"
+  },
+  {
+    "id": 159,
+    "user_id": 1,
+    "question_id": 72,
+    "quiz_id": 16,
+    "seen_at": "2025-01-02T16:07:46.518Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "D"
+  },
+  {
+    "id": 160,
+    "user_id": 1,
+    "question_id": 71,
+    "quiz_id": 16,
+    "seen_at": "2025-01-02T16:07:46.518Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "D"
+  },
+  {
+    "id": 161,
+    "user_id": 1,
+    "question_id": 76,
+    "quiz_id": 17,
+    "seen_at": "2025-01-02T22:48:04.803Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "A"
+  },
+  {
+    "id": 162,
+    "user_id": 1,
+    "question_id": 78,
+    "quiz_id": 17,
+    "seen_at": "2025-01-02T22:48:04.803Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "A"
+  },
+  {
+    "id": 163,
+    "user_id": 1,
+    "question_id": 75,
+    "quiz_id": 17,
+    "seen_at": "2025-01-02T22:48:04.803Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "B"
+  },
+  {
+    "id": 164,
+    "user_id": 1,
+    "question_id": 77,
+    "quiz_id": 17,
+    "seen_at": "2025-01-02T22:48:04.803Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "C"
+  },
+  {
+    "id": 165,
+    "user_id": 1,
+    "question_id": 79,
+    "quiz_id": 17,
+    "seen_at": "2025-01-02T22:48:04.803Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "D"
+  },
+  {
+    "id": 166,
+    "user_id": 1,
+    "question_id": 81,
+    "quiz_id": 17,
+    "seen_at": "2025-01-02T22:48:04.803Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "C"
+  },
+  {
+    "id": 167,
+    "user_id": 1,
+    "question_id": 82,
+    "quiz_id": 17,
+    "seen_at": "2025-01-02T22:48:04.803Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "B"
+  },
+  {
+    "id": 168,
+    "user_id": 1,
+    "question_id": 80,
+    "quiz_id": 17,
+    "seen_at": "2025-01-02T22:48:04.803Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "C"
+  },
+  {
+    "id": 169,
+    "user_id": 1,
+    "question_id": 83,
+    "quiz_id": 17,
+    "seen_at": "2025-01-02T22:48:04.803Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "D"
+  },
+  {
+    "id": 170,
+    "user_id": 1,
+    "question_id": 84,
+    "quiz_id": 17,
+    "seen_at": "2025-01-02T22:48:04.803Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "B"
+  },
+  {
+    "id": 171,
+    "user_id": 12,
+    "question_id": 217,
+    "quiz_id": 18,
+    "seen_at": "2025-01-02T23:15:07.772Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "A"
+  },
+  {
+    "id": 172,
+    "user_id": 12,
+    "question_id": 222,
+    "quiz_id": 18,
+    "seen_at": "2025-01-02T23:15:07.772Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "A"
+  },
+  {
+    "id": 173,
+    "user_id": 12,
+    "question_id": 221,
+    "quiz_id": 18,
+    "seen_at": "2025-01-02T23:15:07.772Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "A"
+  },
+  {
+    "id": 174,
+    "user_id": 12,
+    "question_id": 223,
+    "quiz_id": 18,
+    "seen_at": "2025-01-02T23:15:07.772Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "C"
+  },
+  {
+    "id": 175,
+    "user_id": 12,
+    "question_id": 214,
+    "quiz_id": 18,
+    "seen_at": "2025-01-02T23:15:07.772Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "B"
+  },
+  {
+    "id": 176,
+    "user_id": 12,
+    "question_id": 215,
+    "quiz_id": 18,
+    "seen_at": "2025-01-02T23:15:07.772Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "A"
+  },
+  {
+    "id": 177,
+    "user_id": 12,
+    "question_id": 216,
+    "quiz_id": 18,
+    "seen_at": "2025-01-02T23:15:07.772Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "A"
+  },
+  {
+    "id": 178,
+    "user_id": 12,
+    "question_id": 219,
+    "quiz_id": 18,
+    "seen_at": "2025-01-02T23:15:07.772Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "B"
+  },
+  {
+    "id": 179,
+    "user_id": 12,
+    "question_id": 218,
+    "quiz_id": 18,
+    "seen_at": "2025-01-02T23:15:07.772Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "A"
+  },
+  {
+    "id": 180,
+    "user_id": 12,
+    "question_id": 220,
+    "quiz_id": 18,
+    "seen_at": "2025-01-02T23:15:07.772Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "A"
+  },
+  {
+    "id": 181,
+    "user_id": 12,
+    "question_id": 68,
+    "quiz_id": 19,
+    "seen_at": "2025-01-02T23:19:08.891Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "A"
+  },
+  {
+    "id": 182,
+    "user_id": 12,
+    "question_id": 70,
+    "quiz_id": 19,
+    "seen_at": "2025-01-02T23:19:08.891Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "A"
+  },
+  {
+    "id": 183,
+    "user_id": 12,
+    "question_id": 67,
+    "quiz_id": 19,
+    "seen_at": "2025-01-02T23:19:08.891Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "B"
+  },
+  {
+    "id": 184,
+    "user_id": 12,
+    "question_id": 74,
+    "quiz_id": 19,
+    "seen_at": "2025-01-02T23:19:08.891Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "C"
+  },
+  {
+    "id": 185,
+    "user_id": 12,
+    "question_id": 72,
+    "quiz_id": 19,
+    "seen_at": "2025-01-02T23:19:08.891Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "A"
+  },
+  {
+    "id": 186,
+    "user_id": 12,
+    "question_id": 65,
+    "quiz_id": 19,
+    "seen_at": "2025-01-02T23:19:08.891Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "C"
+  },
+  {
+    "id": 187,
+    "user_id": 12,
+    "question_id": 69,
+    "quiz_id": 19,
+    "seen_at": "2025-01-02T23:19:08.891Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "A"
+  },
+  {
+    "id": 188,
+    "user_id": 12,
+    "question_id": 71,
+    "quiz_id": 19,
+    "seen_at": "2025-01-02T23:19:08.891Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "C"
+  },
+  {
+    "id": 189,
+    "user_id": 12,
+    "question_id": 73,
+    "quiz_id": 19,
+    "seen_at": "2025-01-02T23:19:08.891Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "A"
+  },
+  {
+    "id": 190,
+    "user_id": 12,
+    "question_id": 66,
+    "quiz_id": 19,
+    "seen_at": "2025-01-02T23:19:08.891Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "C"
+  },
+  {
+    "id": 191,
+    "user_id": 1,
+    "question_id": 155,
+    "quiz_id": 20,
+    "seen_at": "2025-01-03T16:59:59.245Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "A"
+  },
+  {
+    "id": 192,
+    "user_id": 1,
+    "question_id": 160,
+    "quiz_id": 20,
+    "seen_at": "2025-01-03T16:59:59.245Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "D"
+  },
+  {
+    "id": 193,
+    "user_id": 1,
+    "question_id": 156,
+    "quiz_id": 20,
+    "seen_at": "2025-01-03T16:59:59.245Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "C"
+  },
+  {
+    "id": 194,
+    "user_id": 1,
+    "question_id": 157,
+    "quiz_id": 20,
+    "seen_at": "2025-01-03T16:59:59.245Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "B"
+  },
+  {
+    "id": 195,
+    "user_id": 1,
+    "question_id": 158,
+    "quiz_id": 20,
+    "seen_at": "2025-01-03T16:59:59.245Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "A"
+  },
+  {
+    "id": 196,
+    "user_id": 1,
+    "question_id": 162,
+    "quiz_id": 20,
+    "seen_at": "2025-01-03T16:59:59.245Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "D"
+  },
+  {
+    "id": 197,
+    "user_id": 1,
+    "question_id": 161,
+    "quiz_id": 20,
+    "seen_at": "2025-01-03T16:59:59.245Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "C"
+  },
+  {
+    "id": 198,
+    "user_id": 1,
+    "question_id": 159,
+    "quiz_id": 20,
+    "seen_at": "2025-01-03T16:59:59.245Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "B"
+  },
+  {
+    "id": 199,
+    "user_id": 1,
+    "question_id": 164,
+    "quiz_id": 20,
+    "seen_at": "2025-01-03T16:59:59.245Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "A"
+  },
+  {
+    "id": 200,
+    "user_id": 1,
+    "question_id": 163,
+    "quiz_id": 20,
+    "seen_at": "2025-01-03T16:59:59.245Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "D"
+  },
+  {
+    "id": 201,
+    "user_id": 1,
+    "question_id": 85,
+    "quiz_id": 21,
+    "seen_at": "2025-01-03T17:25:34.130Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "A"
+  },
+  {
+    "id": 202,
+    "user_id": 1,
+    "question_id": 91,
+    "quiz_id": 21,
+    "seen_at": "2025-01-03T17:25:34.130Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "D"
+  },
+  {
+    "id": 203,
+    "user_id": 1,
+    "question_id": 89,
+    "quiz_id": 21,
+    "seen_at": "2025-01-03T17:25:34.130Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "C"
+  },
+  {
+    "id": 204,
+    "user_id": 1,
+    "question_id": 86,
+    "quiz_id": 21,
+    "seen_at": "2025-01-03T17:25:34.130Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "D"
+  },
+  {
+    "id": 205,
+    "user_id": 1,
+    "question_id": 88,
+    "quiz_id": 21,
+    "seen_at": "2025-01-03T17:25:34.130Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "C"
+  },
+  {
+    "id": 206,
+    "user_id": 1,
+    "question_id": 87,
+    "quiz_id": 21,
+    "seen_at": "2025-01-03T17:25:34.130Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "B"
+  },
+  {
+    "id": 207,
+    "user_id": 1,
+    "question_id": 92,
+    "quiz_id": 21,
+    "seen_at": "2025-01-03T17:25:34.130Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "A"
+  },
+  {
+    "id": 208,
+    "user_id": 1,
+    "question_id": 90,
+    "quiz_id": 21,
+    "seen_at": "2025-01-03T17:25:34.130Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "D"
+  },
+  {
+    "id": 209,
+    "user_id": 1,
+    "question_id": 93,
+    "quiz_id": 21,
+    "seen_at": "2025-01-03T17:25:34.130Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "B"
+  },
+  {
+    "id": 210,
+    "user_id": 1,
+    "question_id": 94,
+    "quiz_id": 21,
+    "seen_at": "2025-01-03T17:25:34.130Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "C"
+  },
+  {
+    "id": 211,
+    "user_id": 1,
+    "question_id": 14,
+    "quiz_id": 22,
+    "seen_at": "2025-01-03T17:31:51.992Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "A"
+  },
+  {
+    "id": 212,
+    "user_id": 1,
+    "question_id": 6,
+    "quiz_id": 22,
+    "seen_at": "2025-01-03T17:31:51.992Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "D"
+  },
+  {
+    "id": 213,
+    "user_id": 1,
+    "question_id": 7,
+    "quiz_id": 22,
+    "seen_at": "2025-01-03T17:31:51.992Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "C"
+  },
+  {
+    "id": 214,
+    "user_id": 1,
+    "question_id": 5,
+    "quiz_id": 22,
+    "seen_at": "2025-01-03T17:31:51.992Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "B"
+  },
+  {
+    "id": 215,
+    "user_id": 1,
+    "question_id": 8,
+    "quiz_id": 22,
+    "seen_at": "2025-01-03T17:31:51.992Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "A"
+  },
+  {
+    "id": 216,
+    "user_id": 1,
+    "question_id": 11,
+    "quiz_id": 22,
+    "seen_at": "2025-01-03T17:31:51.992Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "D"
+  },
+  {
+    "id": 217,
+    "user_id": 1,
+    "question_id": 13,
+    "quiz_id": 22,
+    "seen_at": "2025-01-03T17:31:51.992Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "C"
+  },
+  {
+    "id": 218,
+    "user_id": 1,
+    "question_id": 10,
+    "quiz_id": 22,
+    "seen_at": "2025-01-03T17:31:51.992Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "B"
+  },
+  {
+    "id": 219,
+    "user_id": 1,
+    "question_id": 9,
+    "quiz_id": 22,
+    "seen_at": "2025-01-03T17:31:51.992Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "A"
+  },
+  {
+    "id": 220,
+    "user_id": 1,
+    "question_id": 12,
+    "quiz_id": 22,
+    "seen_at": "2025-01-03T17:31:51.992Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "D"
+  },
+  {
+    "id": 221,
+    "user_id": 1,
+    "question_id": 24,
+    "quiz_id": 23,
+    "seen_at": "2025-01-03T17:55:35.531Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "C"
+  },
+  {
+    "id": 222,
+    "user_id": 1,
+    "question_id": 15,
+    "quiz_id": 23,
+    "seen_at": "2025-01-03T17:55:35.531Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "D"
+  },
+  {
+    "id": 223,
+    "user_id": 1,
+    "question_id": 16,
+    "quiz_id": 23,
+    "seen_at": "2025-01-03T17:55:35.531Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "C"
+  },
+  {
+    "id": 224,
+    "user_id": 1,
+    "question_id": 17,
+    "quiz_id": 23,
+    "seen_at": "2025-01-03T17:55:35.531Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "B"
+  },
+  {
+    "id": 225,
+    "user_id": 1,
+    "question_id": 23,
+    "quiz_id": 23,
+    "seen_at": "2025-01-03T17:55:35.531Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "A"
+  },
+  {
+    "id": 226,
+    "user_id": 1,
+    "question_id": 18,
+    "quiz_id": 23,
+    "seen_at": "2025-01-03T17:55:35.531Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "D"
+  },
+  {
+    "id": 227,
+    "user_id": 1,
+    "question_id": 22,
+    "quiz_id": 23,
+    "seen_at": "2025-01-03T17:55:35.531Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "D"
+  },
+  {
+    "id": 228,
+    "user_id": 1,
+    "question_id": 20,
+    "quiz_id": 23,
+    "seen_at": "2025-01-03T17:55:35.531Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "C"
+  },
+  {
+    "id": 229,
+    "user_id": 1,
+    "question_id": 21,
+    "quiz_id": 23,
+    "seen_at": "2025-01-03T17:55:35.531Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "B"
+  },
+  {
+    "id": 230,
+    "user_id": 1,
+    "question_id": 19,
+    "quiz_id": 23,
+    "seen_at": "2025-01-03T17:55:35.531Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "A"
+  },
+  {
+    "id": 231,
+    "user_id": 1,
+    "question_id": 26,
+    "quiz_id": 24,
+    "seen_at": "2025-01-04T13:16:29.804Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "B"
+  },
+  {
+    "id": 232,
+    "user_id": 1,
+    "question_id": 27,
+    "quiz_id": 24,
+    "seen_at": "2025-01-04T13:16:29.804Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "A"
+  },
+  {
+    "id": 233,
+    "user_id": 1,
+    "question_id": 25,
+    "quiz_id": 24,
+    "seen_at": "2025-01-04T13:16:29.804Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "B"
+  },
+  {
+    "id": 234,
+    "user_id": 1,
+    "question_id": 28,
+    "quiz_id": 24,
+    "seen_at": "2025-01-04T13:16:29.804Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "D"
+  },
+  {
+    "id": 235,
+    "user_id": 1,
+    "question_id": 30,
+    "quiz_id": 24,
+    "seen_at": "2025-01-04T13:16:29.804Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "C"
+  },
+  {
+    "id": 236,
+    "user_id": 1,
+    "question_id": 29,
+    "quiz_id": 24,
+    "seen_at": "2025-01-04T13:16:29.804Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "B"
+  },
+  {
+    "id": 237,
+    "user_id": 1,
+    "question_id": 31,
+    "quiz_id": 24,
+    "seen_at": "2025-01-04T13:16:29.804Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "D"
+  },
+  {
+    "id": 238,
+    "user_id": 1,
+    "question_id": 32,
+    "quiz_id": 24,
+    "seen_at": "2025-01-04T13:16:29.804Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "C"
+  },
+  {
+    "id": 239,
+    "user_id": 1,
+    "question_id": 34,
+    "quiz_id": 24,
+    "seen_at": "2025-01-04T13:16:29.804Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "A"
+  },
+  {
+    "id": 240,
+    "user_id": 1,
+    "question_id": 33,
+    "quiz_id": 24,
+    "seen_at": "2025-01-04T13:16:29.804Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "B"
+  },
+  {
+    "id": 241,
+    "user_id": 1,
+    "question_id": 97,
+    "quiz_id": 25,
+    "seen_at": "2025-01-04T13:55:57.871Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "D"
+  },
+  {
+    "id": 242,
+    "user_id": 1,
+    "question_id": 96,
+    "quiz_id": 25,
+    "seen_at": "2025-01-04T13:55:57.871Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "D"
+  },
+  {
+    "id": 243,
+    "user_id": 1,
+    "question_id": 95,
+    "quiz_id": 25,
+    "seen_at": "2025-01-04T13:55:57.871Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "D"
+  },
+  {
+    "id": 244,
+    "user_id": 1,
+    "question_id": 98,
+    "quiz_id": 25,
+    "seen_at": "2025-01-04T13:55:57.871Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "C"
+  },
+  {
+    "id": 245,
+    "user_id": 1,
+    "question_id": 100,
+    "quiz_id": 25,
+    "seen_at": "2025-01-04T13:55:57.871Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "A"
+  },
+  {
+    "id": 246,
+    "user_id": 1,
+    "question_id": 99,
+    "quiz_id": 25,
+    "seen_at": "2025-01-04T13:55:57.871Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "C"
+  },
+  {
+    "id": 247,
+    "user_id": 1,
+    "question_id": 102,
+    "quiz_id": 25,
+    "seen_at": "2025-01-04T13:55:57.871Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "C"
+  },
+  {
+    "id": 248,
+    "user_id": 1,
+    "question_id": 101,
+    "quiz_id": 25,
+    "seen_at": "2025-01-04T13:55:57.871Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "B"
+  },
+  {
+    "id": 249,
+    "user_id": 1,
+    "question_id": 103,
+    "quiz_id": 25,
+    "seen_at": "2025-01-04T13:55:57.871Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "D"
+  },
+  {
+    "id": 250,
+    "user_id": 1,
+    "question_id": 104,
+    "quiz_id": 25,
+    "seen_at": "2025-01-04T13:55:57.871Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "D"
+  },
+  {
+    "id": 251,
+    "user_id": 1,
+    "question_id": 165,
+    "quiz_id": 26,
+    "seen_at": "2025-01-04T13:59:54.110Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "C"
+  },
+  {
+    "id": 252,
+    "user_id": 1,
+    "question_id": 166,
+    "quiz_id": 26,
+    "seen_at": "2025-01-04T13:59:54.110Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "D"
+  },
+  {
+    "id": 253,
+    "user_id": 1,
+    "question_id": 173,
+    "quiz_id": 26,
+    "seen_at": "2025-01-04T13:59:54.110Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "D"
+  },
+  {
+    "id": 254,
+    "user_id": 1,
+    "question_id": 167,
+    "quiz_id": 26,
+    "seen_at": "2025-01-04T13:59:54.110Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "C"
+  },
+  {
+    "id": 255,
+    "user_id": 1,
+    "question_id": 170,
+    "quiz_id": 26,
+    "seen_at": "2025-01-04T13:59:54.110Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "D"
+  },
+  {
+    "id": 256,
+    "user_id": 1,
+    "question_id": 174,
+    "quiz_id": 26,
+    "seen_at": "2025-01-04T13:59:54.110Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "B"
+  },
+  {
+    "id": 257,
+    "user_id": 1,
+    "question_id": 171,
+    "quiz_id": 26,
+    "seen_at": "2025-01-04T13:59:54.110Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "A"
+  },
+  {
+    "id": 258,
+    "user_id": 1,
+    "question_id": 168,
+    "quiz_id": 26,
+    "seen_at": "2025-01-04T13:59:54.110Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "D"
+  },
+  {
+    "id": 259,
+    "user_id": 1,
+    "question_id": 169,
+    "quiz_id": 26,
+    "seen_at": "2025-01-04T13:59:54.110Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "C"
+  },
+  {
+    "id": 260,
+    "user_id": 1,
+    "question_id": 172,
+    "quiz_id": 26,
+    "seen_at": "2025-01-04T13:59:54.110Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "B"
+  },
+  {
+    "id": 261,
+    "user_id": 22,
+    "question_id": 189,
+    "quiz_id": 27,
+    "seen_at": "2025-01-06T17:53:02.256Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "C"
+  },
+  {
+    "id": 262,
+    "user_id": 22,
+    "question_id": 191,
+    "quiz_id": 27,
+    "seen_at": "2025-01-06T17:53:02.256Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "B"
+  },
+  {
+    "id": 263,
+    "user_id": 22,
+    "question_id": 188,
+    "quiz_id": 27,
+    "seen_at": "2025-01-06T17:53:02.256Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "B"
+  },
+  {
+    "id": 264,
+    "user_id": 22,
+    "question_id": 190,
+    "quiz_id": 27,
+    "seen_at": "2025-01-06T17:53:02.256Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "D"
+  },
+  {
+    "id": 265,
+    "user_id": 22,
+    "question_id": 187,
+    "quiz_id": 27,
+    "seen_at": "2025-01-06T17:53:02.256Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "B"
+  },
+  {
+    "id": 266,
+    "user_id": 22,
+    "question_id": 192,
+    "quiz_id": 27,
+    "seen_at": "2025-01-06T17:53:02.256Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "D"
+  },
+  {
+    "id": 267,
+    "user_id": 22,
+    "question_id": 186,
+    "quiz_id": 27,
+    "seen_at": "2025-01-06T17:53:02.256Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "B"
+  },
+  {
+    "id": 268,
+    "user_id": 22,
+    "question_id": 194,
+    "quiz_id": 27,
+    "seen_at": "2025-01-06T17:53:02.256Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "A"
+  },
+  {
+    "id": 269,
+    "user_id": 22,
+    "question_id": 193,
+    "quiz_id": 27,
+    "seen_at": "2025-01-06T17:53:02.256Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "B"
+  },
+  {
+    "id": 270,
+    "user_id": 22,
+    "question_id": 185,
+    "quiz_id": 27,
+    "seen_at": "2025-01-06T17:53:02.256Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "B"
+  },
+  {
+    "id": 271,
+    "user_id": 22,
+    "question_id": 125,
+    "quiz_id": 28,
+    "seen_at": "2025-01-06T17:54:51.406Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "A"
+  },
+  {
+    "id": 272,
+    "user_id": 22,
+    "question_id": 127,
+    "quiz_id": 28,
+    "seen_at": "2025-01-06T17:54:51.406Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "B"
+  },
+  {
+    "id": 273,
+    "user_id": 22,
+    "question_id": 134,
+    "quiz_id": 28,
+    "seen_at": "2025-01-06T17:54:51.406Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "D"
+  },
+  {
+    "id": 274,
+    "user_id": 22,
+    "question_id": 133,
+    "quiz_id": 28,
+    "seen_at": "2025-01-06T17:54:51.406Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "B"
+  },
+  {
+    "id": 275,
+    "user_id": 22,
+    "question_id": 130,
+    "quiz_id": 28,
+    "seen_at": "2025-01-06T17:54:51.406Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "C"
+  },
+  {
+    "id": 276,
+    "user_id": 22,
+    "question_id": 128,
+    "quiz_id": 28,
+    "seen_at": "2025-01-06T17:54:51.406Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "A"
+  },
+  {
+    "id": 277,
+    "user_id": 22,
+    "question_id": 129,
+    "quiz_id": 28,
+    "seen_at": "2025-01-06T17:54:51.406Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "C"
+  },
+  {
+    "id": 278,
+    "user_id": 22,
+    "question_id": 131,
+    "quiz_id": 28,
+    "seen_at": "2025-01-06T17:54:51.406Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "C"
+  },
+  {
+    "id": 279,
+    "user_id": 22,
+    "question_id": 132,
+    "quiz_id": 28,
+    "seen_at": "2025-01-06T17:54:51.406Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "C"
+  },
+  {
+    "id": 280,
+    "user_id": 22,
+    "question_id": 126,
+    "quiz_id": 28,
+    "seen_at": "2025-01-06T17:54:51.406Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "C"
+  },
+  {
+    "id": 281,
+    "user_id": 22,
+    "question_id": 12,
+    "quiz_id": 29,
+    "seen_at": "2025-01-06T18:05:24.131Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "A"
+  },
+  {
+    "id": 282,
+    "user_id": 22,
+    "question_id": 14,
+    "quiz_id": 29,
+    "seen_at": "2025-01-06T18:05:24.131Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "A"
+  },
+  {
+    "id": 283,
+    "user_id": 22,
+    "question_id": 8,
+    "quiz_id": 29,
+    "seen_at": "2025-01-06T18:05:24.131Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "B"
+  },
+  {
+    "id": 284,
+    "user_id": 22,
+    "question_id": 5,
+    "quiz_id": 29,
+    "seen_at": "2025-01-06T18:05:24.131Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "A"
+  },
+  {
+    "id": 285,
+    "user_id": 22,
+    "question_id": 10,
+    "quiz_id": 29,
+    "seen_at": "2025-01-06T18:05:24.131Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "B"
+  },
+  {
+    "id": 286,
+    "user_id": 22,
+    "question_id": 13,
+    "quiz_id": 29,
+    "seen_at": "2025-01-06T18:05:24.131Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "B"
+  },
+  {
+    "id": 287,
+    "user_id": 22,
+    "question_id": 9,
+    "quiz_id": 29,
+    "seen_at": "2025-01-06T18:05:24.131Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "B"
+  },
+  {
+    "id": 288,
+    "user_id": 22,
+    "question_id": 6,
+    "quiz_id": 29,
+    "seen_at": "2025-01-06T18:05:24.131Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "B"
+  },
+  {
+    "id": 289,
+    "user_id": 22,
+    "question_id": 11,
+    "quiz_id": 29,
+    "seen_at": "2025-01-06T18:05:24.131Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "A"
+  },
+  {
+    "id": 290,
+    "user_id": 22,
+    "question_id": 7,
+    "quiz_id": 29,
+    "seen_at": "2025-01-06T18:05:24.131Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "B"
+  },
+  {
+    "id": 291,
+    "user_id": 22,
+    "question_id": 18,
+    "quiz_id": 30,
+    "seen_at": "2025-01-06T18:08:16.796Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "A"
+  },
+  {
+    "id": 292,
+    "user_id": 22,
+    "question_id": 17,
+    "quiz_id": 30,
+    "seen_at": "2025-01-06T18:08:16.796Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "A"
+  },
+  {
+    "id": 293,
+    "user_id": 22,
+    "question_id": 19,
+    "quiz_id": 30,
+    "seen_at": "2025-01-06T18:08:16.796Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "D"
+  },
+  {
+    "id": 294,
+    "user_id": 22,
+    "question_id": 22,
+    "quiz_id": 30,
+    "seen_at": "2025-01-06T18:08:16.796Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "A"
+  },
+  {
+    "id": 295,
+    "user_id": 22,
+    "question_id": 20,
+    "quiz_id": 30,
+    "seen_at": "2025-01-06T18:08:16.796Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "D"
+  },
+  {
+    "id": 296,
+    "user_id": 22,
+    "question_id": 16,
+    "quiz_id": 30,
+    "seen_at": "2025-01-06T18:08:16.796Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "A"
+  },
+  {
+    "id": 297,
+    "user_id": 22,
+    "question_id": 15,
+    "quiz_id": 30,
+    "seen_at": "2025-01-06T18:08:16.796Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "B"
+  },
+  {
+    "id": 298,
+    "user_id": 22,
+    "question_id": 23,
+    "quiz_id": 30,
+    "seen_at": "2025-01-06T18:08:16.796Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "C"
+  },
+  {
+    "id": 299,
+    "user_id": 22,
+    "question_id": 24,
+    "quiz_id": 30,
+    "seen_at": "2025-01-06T18:08:16.796Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "B"
+  },
+  {
+    "id": 300,
+    "user_id": 22,
+    "question_id": 21,
+    "quiz_id": 30,
+    "seen_at": "2025-01-06T18:08:16.796Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "B"
+  },
+  {
+    "id": 301,
+    "user_id": 23,
+    "question_id": 164,
+    "quiz_id": 31,
+    "seen_at": "2025-01-07T08:59:35.687Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "A"
+  },
+  {
+    "id": 302,
+    "user_id": 23,
+    "question_id": 163,
+    "quiz_id": 31,
+    "seen_at": "2025-01-07T08:59:35.687Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "A"
+  },
+  {
+    "id": 303,
+    "user_id": 23,
+    "question_id": 156,
+    "quiz_id": 31,
+    "seen_at": "2025-01-07T08:59:35.687Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "A"
+  },
+  {
+    "id": 304,
+    "user_id": 23,
+    "question_id": 157,
+    "quiz_id": 31,
+    "seen_at": "2025-01-07T08:59:35.687Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "A"
+  },
+  {
+    "id": 305,
+    "user_id": 23,
+    "question_id": 158,
+    "quiz_id": 31,
+    "seen_at": "2025-01-07T08:59:35.687Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "A"
+  },
+  {
+    "id": 306,
+    "user_id": 23,
+    "question_id": 155,
+    "quiz_id": 31,
+    "seen_at": "2025-01-07T08:59:35.687Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "B"
+  },
+  {
+    "id": 307,
+    "user_id": 23,
+    "question_id": 162,
+    "quiz_id": 31,
+    "seen_at": "2025-01-07T08:59:35.687Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "C"
+  },
+  {
+    "id": 308,
+    "user_id": 23,
+    "question_id": 160,
+    "quiz_id": 31,
+    "seen_at": "2025-01-07T08:59:35.687Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "B"
+  },
+  {
+    "id": 309,
+    "user_id": 23,
+    "question_id": 159,
+    "quiz_id": 31,
+    "seen_at": "2025-01-07T08:59:35.687Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "A"
+  },
+  {
+    "id": 310,
+    "user_id": 23,
+    "question_id": 161,
+    "quiz_id": 31,
+    "seen_at": "2025-01-07T08:59:35.687Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "A"
+  },
+  {
+    "id": 311,
+    "user_id": 24,
+    "question_id": 192,
+    "quiz_id": 32,
+    "seen_at": "2025-01-22T07:50:14.983Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "A"
+  },
+  {
+    "id": 312,
+    "user_id": 24,
+    "question_id": 193,
+    "quiz_id": 32,
+    "seen_at": "2025-01-22T07:50:14.983Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "D"
+  },
+  {
+    "id": 313,
+    "user_id": 24,
+    "question_id": 187,
+    "quiz_id": 32,
+    "seen_at": "2025-01-22T07:50:14.983Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "C"
+  },
+  {
+    "id": 314,
+    "user_id": 24,
+    "question_id": 185,
+    "quiz_id": 32,
+    "seen_at": "2025-01-22T07:50:14.983Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "B"
+  },
+  {
+    "id": 315,
+    "user_id": 24,
+    "question_id": 190,
+    "quiz_id": 32,
+    "seen_at": "2025-01-22T07:50:14.983Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "A"
+  },
+  {
+    "id": 316,
+    "user_id": 24,
+    "question_id": 189,
+    "quiz_id": 32,
+    "seen_at": "2025-01-22T07:50:14.983Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "C"
+  },
+  {
+    "id": 317,
+    "user_id": 24,
+    "question_id": 191,
+    "quiz_id": 32,
+    "seen_at": "2025-01-22T07:50:14.983Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "B"
+  },
+  {
+    "id": 318,
+    "user_id": 24,
+    "question_id": 186,
+    "quiz_id": 32,
+    "seen_at": "2025-01-22T07:50:14.983Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "B"
+  },
+  {
+    "id": 319,
+    "user_id": 24,
+    "question_id": 194,
+    "quiz_id": 32,
+    "seen_at": "2025-01-22T07:50:14.983Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "B"
+  },
+  {
+    "id": 320,
+    "user_id": 24,
+    "question_id": 188,
+    "quiz_id": 32,
+    "seen_at": "2025-01-22T07:50:14.983Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "D"
+  },
+  {
+    "id": 321,
+    "user_id": 1,
+    "question_id": 356,
+    "quiz_id": 33,
+    "seen_at": "2025-02-20T08:25:14.119Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "C"
+  },
+  {
+    "id": 322,
+    "user_id": 1,
+    "question_id": 353,
+    "quiz_id": 33,
+    "seen_at": "2025-02-20T08:25:14.119Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "D"
+  },
+  {
+    "id": 323,
+    "user_id": 1,
+    "question_id": 352,
+    "quiz_id": 33,
+    "seen_at": "2025-02-20T08:25:14.119Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "D"
+  },
+  {
+    "id": 324,
+    "user_id": 1,
+    "question_id": 354,
+    "quiz_id": 33,
+    "seen_at": "2025-02-20T08:25:14.119Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "D"
+  },
+  {
+    "id": 325,
+    "user_id": 1,
+    "question_id": 355,
+    "quiz_id": 33,
+    "seen_at": "2025-02-20T08:25:14.119Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "D"
+  },
+  {
+    "id": 326,
+    "user_id": 1,
+    "question_id": 358,
+    "quiz_id": 33,
+    "seen_at": "2025-02-20T08:25:14.119Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "D"
+  },
+  {
+    "id": 327,
+    "user_id": 1,
+    "question_id": 359,
+    "quiz_id": 33,
+    "seen_at": "2025-02-20T08:25:14.119Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "D"
+  },
+  {
+    "id": 328,
+    "user_id": 1,
+    "question_id": 357,
+    "quiz_id": 33,
+    "seen_at": "2025-02-20T08:25:14.119Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "D"
+  },
+  {
+    "id": 329,
+    "user_id": 1,
+    "question_id": 361,
+    "quiz_id": 33,
+    "seen_at": "2025-02-20T08:25:14.119Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "D"
+  },
+  {
+    "id": 330,
+    "user_id": 1,
+    "question_id": 360,
+    "quiz_id": 33,
+    "seen_at": "2025-02-20T08:25:14.119Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "D"
+  },
+  {
+    "id": 331,
+    "user_id": 1,
+    "question_id": 253,
+    "quiz_id": 34,
+    "seen_at": "2025-05-29T16:08:54.259Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "B"
+  },
+  {
+    "id": 332,
+    "user_id": 1,
+    "question_id": 258,
+    "quiz_id": 34,
+    "seen_at": "2025-05-29T16:08:54.259Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "B"
+  },
+  {
+    "id": 333,
+    "user_id": 1,
+    "question_id": 252,
+    "quiz_id": 34,
+    "seen_at": "2025-05-29T16:08:54.259Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "D"
+  },
+  {
+    "id": 334,
+    "user_id": 1,
+    "question_id": 254,
+    "quiz_id": 34,
+    "seen_at": "2025-05-29T16:08:54.259Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "C"
+  },
+  {
+    "id": 335,
+    "user_id": 1,
+    "question_id": 251,
+    "quiz_id": 34,
+    "seen_at": "2025-05-29T16:08:54.259Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "A"
+  },
+  {
+    "id": 336,
+    "user_id": 1,
+    "question_id": 255,
+    "quiz_id": 34,
+    "seen_at": "2025-05-29T16:08:54.259Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "B"
+  },
+  {
+    "id": 337,
+    "user_id": 1,
+    "question_id": 256,
+    "quiz_id": 34,
+    "seen_at": "2025-05-29T16:08:54.259Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "D"
+  },
+  {
+    "id": 338,
+    "user_id": 1,
+    "question_id": 260,
+    "quiz_id": 34,
+    "seen_at": "2025-05-29T16:08:54.259Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "D"
+  },
+  {
+    "id": 339,
+    "user_id": 1,
+    "question_id": 259,
+    "quiz_id": 34,
+    "seen_at": "2025-05-29T16:08:54.259Z",
+    "answered_at": null,
+    "is_correct": true,
+    "user_answer": "D"
+  },
+  {
+    "id": 340,
+    "user_id": 1,
+    "question_id": 257,
+    "quiz_id": 34,
+    "seen_at": "2025-05-29T16:08:54.259Z",
+    "answered_at": null,
+    "is_correct": false,
+    "user_answer": "C"
+  }
+]

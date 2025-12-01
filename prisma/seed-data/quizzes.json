@@ -1,0 +1,342 @@
+[
+  {
+    "id": 1,
+    "user_id": 4,
+    "category_id": 2,
+    "total_questions": 10,
+    "correct_answers": 9,
+    "incorrect_answers": 1,
+    "score": 90,
+    "played_at": "2025-01-01T20:57:29.603Z"
+  },
+  {
+    "id": 2,
+    "user_id": 4,
+    "category_id": 3,
+    "total_questions": 10,
+    "correct_answers": 0,
+    "incorrect_answers": 10,
+    "score": 0,
+    "played_at": "2025-01-01T21:05:44.721Z"
+  },
+  {
+    "id": 3,
+    "user_id": 4,
+    "category_id": 5,
+    "total_questions": 10,
+    "correct_answers": 2,
+    "incorrect_answers": 8,
+    "score": 20,
+    "played_at": "2025-01-01T21:08:52.329Z"
+  },
+  {
+    "id": 4,
+    "user_id": 10,
+    "category_id": 3,
+    "total_questions": 10,
+    "correct_answers": 6,
+    "incorrect_answers": 4,
+    "score": 60,
+    "played_at": "2025-01-01T21:36:59.948Z"
+  },
+  {
+    "id": 5,
+    "user_id": 11,
+    "category_id": 4,
+    "total_questions": 10,
+    "correct_answers": 8,
+    "incorrect_answers": 2,
+    "score": 80,
+    "played_at": "2025-01-02T04:43:21.799Z"
+  },
+  {
+    "id": 6,
+    "user_id": 12,
+    "category_id": 2,
+    "total_questions": 10,
+    "correct_answers": 9,
+    "incorrect_answers": 1,
+    "score": 90,
+    "played_at": "2025-01-02T09:57:10.579Z"
+  },
+  {
+    "id": 7,
+    "user_id": 12,
+    "category_id": 5,
+    "total_questions": 10,
+    "correct_answers": 9,
+    "incorrect_answers": 1,
+    "score": 90,
+    "played_at": "2025-01-02T09:59:39.424Z"
+  },
+  {
+    "id": 8,
+    "user_id": 12,
+    "category_id": 6,
+    "total_questions": 10,
+    "correct_answers": 10,
+    "incorrect_answers": 0,
+    "score": 100,
+    "played_at": "2025-01-02T10:01:21.512Z"
+  },
+  {
+    "id": 9,
+    "user_id": 13,
+    "category_id": 2,
+    "total_questions": 10,
+    "correct_answers": 8,
+    "incorrect_answers": 2,
+    "score": 80,
+    "played_at": "2025-01-02T14:10:00.369Z"
+  },
+  {
+    "id": 10,
+    "user_id": 13,
+    "category_id": 2,
+    "total_questions": 10,
+    "correct_answers": 9,
+    "incorrect_answers": 1,
+    "score": 90,
+    "played_at": "2025-01-02T14:11:55.992Z"
+  },
+  {
+    "id": 11,
+    "user_id": 13,
+    "category_id": 2,
+    "total_questions": 10,
+    "correct_answers": 8,
+    "incorrect_answers": 2,
+    "score": 80,
+    "played_at": "2025-01-02T14:13:43.276Z"
+  },
+  {
+    "id": 12,
+    "user_id": 13,
+    "category_id": 8,
+    "total_questions": 10,
+    "correct_answers": 9,
+    "incorrect_answers": 1,
+    "score": 90,
+    "played_at": "2025-01-02T14:19:24.514Z"
+  },
+  {
+    "id": 13,
+    "user_id": 1,
+    "category_id": 2,
+    "total_questions": 10,
+    "correct_answers": 1,
+    "incorrect_answers": 9,
+    "score": 10,
+    "played_at": "2025-01-02T14:51:32.792Z"
+  },
+  {
+    "id": 14,
+    "user_id": 1,
+    "category_id": 2,
+    "total_questions": 10,
+    "correct_answers": 1,
+    "incorrect_answers": 9,
+    "score": 10,
+    "played_at": "2025-01-02T16:03:33.158Z"
+  },
+  {
+    "id": 15,
+    "user_id": 1,
+    "category_id": 2,
+    "total_questions": 10,
+    "correct_answers": 3,
+    "incorrect_answers": 7,
+    "score": 30,
+    "played_at": "2025-01-02T16:06:49.656Z"
+  },
+  {
+    "id": 16,
+    "user_id": 1,
+    "category_id": 3,
+    "total_questions": 10,
+    "correct_answers": 1,
+    "incorrect_answers": 9,
+    "score": 10,
+    "played_at": "2025-01-02T16:07:46.518Z"
+  },
+  {
+    "id": 17,
+    "user_id": 1,
+    "category_id": 3,
+    "total_questions": 10,
+    "correct_answers": 3,
+    "incorrect_answers": 7,
+    "score": 30,
+    "played_at": "2025-01-02T22:48:04.803Z"
+  },
+  {
+    "id": 18,
+    "user_id": 12,
+    "category_id": 8,
+    "total_questions": 10,
+    "correct_answers": 8,
+    "incorrect_answers": 2,
+    "score": 80,
+    "played_at": "2025-01-02T23:15:07.772Z"
+  },
+  {
+    "id": 19,
+    "user_id": 12,
+    "category_id": 3,
+    "total_questions": 10,
+    "correct_answers": 8,
+    "incorrect_answers": 2,
+    "score": 80,
+    "played_at": "2025-01-02T23:19:08.891Z"
+  },
+  {
+    "id": 20,
+    "user_id": 1,
+    "category_id": 6,
+    "total_questions": 10,
+    "correct_answers": 2,
+    "incorrect_answers": 8,
+    "score": 20,
+    "played_at": "2025-01-03T16:59:59.245Z"
+  },
+  {
+    "id": 21,
+    "user_id": 1,
+    "category_id": 3,
+    "total_questions": 10,
+    "correct_answers": 2,
+    "incorrect_answers": 8,
+    "score": 20,
+    "played_at": "2025-01-03T17:25:34.130Z"
+  },
+  {
+    "id": 22,
+    "user_id": 1,
+    "category_id": 1,
+    "total_questions": 10,
+    "correct_answers": 1,
+    "incorrect_answers": 9,
+    "score": 10,
+    "played_at": "2025-01-03T17:31:51.992Z"
+  },
+  {
+    "id": 23,
+    "user_id": 1,
+    "category_id": 1,
+    "total_questions": 10,
+    "correct_answers": 2,
+    "incorrect_answers": 8,
+    "score": 20,
+    "played_at": "2025-01-03T17:55:35.531Z"
+  },
+  {
+    "id": 24,
+    "user_id": 1,
+    "category_id": 1,
+    "total_questions": 10,
+    "correct_answers": 1,
+    "incorrect_answers": 9,
+    "score": 10,
+    "played_at": "2025-01-04T13:16:29.804Z"
+  },
+  {
+    "id": 25,
+    "user_id": 1,
+    "category_id": 4,
+    "total_questions": 10,
+    "correct_answers": 2,
+    "incorrect_answers": 8,
+    "score": 20,
+    "played_at": "2025-01-04T13:55:57.871Z"
+  },
+  {
+    "id": 26,
+    "user_id": 1,
+    "category_id": 6,
+    "total_questions": 10,
+    "correct_answers": 1,
+    "incorrect_answers": 9,
+    "score": 10,
+    "played_at": "2025-01-04T13:59:54.110Z"
+  },
+  {
+    "id": 27,
+    "user_id": 22,
+    "category_id": 7,
+    "total_questions": 10,
+    "correct_answers": 5,
+    "incorrect_answers": 5,
+    "score": 50,
+    "played_at": "2025-01-06T17:53:02.256Z"
+  },
+  {
+    "id": 28,
+    "user_id": 22,
+    "category_id": 5,
+    "total_questions": 10,
+    "correct_answers": 8,
+    "incorrect_answers": 2,
+    "score": 80,
+    "played_at": "2025-01-06T17:54:51.406Z"
+  },
+  {
+    "id": 29,
+    "user_id": 22,
+    "category_id": 1,
+    "total_questions": 10,
+    "correct_answers": 8,
+    "incorrect_answers": 2,
+    "score": 80,
+    "played_at": "2025-01-06T18:05:24.131Z"
+  },
+  {
+    "id": 30,
+    "user_id": 22,
+    "category_id": 1,
+    "total_questions": 10,
+    "correct_answers": 7,
+    "incorrect_answers": 3,
+    "score": 70,
+    "played_at": "2025-01-06T18:08:16.796Z"
+  },
+  {
+    "id": 31,
+    "user_id": 23,
+    "category_id": 6,
+    "total_questions": 10,
+    "correct_answers": 9,
+    "incorrect_answers": 1,
+    "score": 90,
+    "played_at": "2025-01-07T08:59:35.687Z"
+  },
+  {
+    "id": 32,
+    "user_id": 24,
+    "category_id": 7,
+    "total_questions": 10,
+    "correct_answers": 7,
+    "incorrect_answers": 3,
+    "score": 70,
+    "played_at": "2025-01-22T07:50:14.983Z"
+  },
+  {
+    "id": 33,
+    "user_id": 1,
+    "category_id": 3,
+    "total_questions": 10,
+    "correct_answers": 0,
+    "incorrect_answers": 10,
+    "score": 0,
+    "played_at": "2025-02-20T08:25:14.119Z"
+  },
+  {
+    "id": 34,
+    "user_id": 1,
+    "category_id": 1,
+    "total_questions": 10,
+    "correct_answers": 4,
+    "incorrect_answers": 6,
+    "score": 40,
+    "played_at": "2025-05-29T16:08:54.259Z"
+  }
+]

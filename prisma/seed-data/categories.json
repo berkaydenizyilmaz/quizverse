@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Genel Kültür"
+  },
+  {
+    "id": 3,
+    "name": "Edebiyat"
+  },
+  {
+    "id": 4,
+    "name": "Spor"
+  },
+  {
+    "id": 5,
+    "name": "Müzik"
+  },
+  {
+    "id": 6,
+    "name": "Sinema"
+  },
+  {
+    "id": 8,
+    "name": "Sanat"
+  },
+  {
+    "id": 2,
+    "name": "Bilim"
+  },
+  {
+    "id": 7,
+    "name": "Tarih"
+  }
+]
