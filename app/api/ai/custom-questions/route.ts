@@ -5,9 +5,10 @@ import { APIError } from "@/lib/errors";
 import { logger } from "@/lib/logger";
 
 /**
- * API anahtarı kontrolü
+ * API anahtarı - runtime'da kontrol edilecek
  */
-const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY || "");
+const apiKey = process.env.GEMINI_API_KEY;
+const genAI = apiKey ? new GoogleGenerativeAI(apiKey) : null;
 
 /**
  * JSON yanıtını temizler ve doğrular
@@ -127,6 +128,11 @@ const getPrompt = (category: string): string => {
  */
 export async function POST(request: NextRequest) {
   try {
+    // Runtime'da API key kontrolü
+    if (!genAI) {
+      throw new APIError("Gemini API anahtarı yapılandırılmamış", 500);
+    }
+
     const body = await request.json();
     const { category } = body;
 
