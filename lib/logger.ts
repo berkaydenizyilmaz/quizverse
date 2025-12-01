@@ -32,15 +32,9 @@ interface LogData {
 }
 
 class Logger {
-  private baseUrl: string;
-
-  constructor() {
-    this.baseUrl = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:3000';
-  }
-
   private async saveLog(logData: LogData) {
     try {
-      const response = await fetch(`${this.baseUrl}/api/logs`, {
+      const response = await fetch(`/api/logs`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(logData)
