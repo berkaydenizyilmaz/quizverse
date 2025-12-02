@@ -1,3 +1,5 @@
+import { prisma } from './prisma';
+
 type LogLevel = 'info' | 'warn' | 'error';
 type LogAction = 
   | 'create' 
@@ -34,15 +36,17 @@ interface LogData {
 class Logger {
   private async saveLog(logData: LogData) {
     try {
-      const response = await fetch(`/api/logs`, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify(logData)
+      await prisma.log.create({
+        data: {
+          level: logData.level,
+          module: logData.module,
+          action: logData.action,
+          message: logData.message,
+          path: logData.path,
+          user_id: logData.userId,
+          metadata: logData.metadata,
+        }
       });
-
-      if (!response.ok) {
-        console.error('Log kaydetme hatası:', await response.text());
-      }
     } catch (error) {
       console.error('Log kaydetme hatası:', error);
     }
