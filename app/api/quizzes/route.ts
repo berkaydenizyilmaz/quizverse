@@ -94,13 +94,22 @@ export async function POST(request: NextRequest) {
   try {
     // Token kontrolü
     const token = request.cookies.get("token")?.value;
+    console.log('[QUIZ API] Token:', token ? 'exists' : 'missing');
+    
     if (!token) {
       throw new AuthenticationError("Oturum bulunamadı");
     }
 
+    // JWT_SECRET kontrolü
+    if (!process.env.JWT_SECRET) {
+      console.error('[QUIZ API] JWT_SECRET is not defined!');
+      throw new APIError("Sunucu yapılandırma hatası", 500);
+    }
+
     // Token'dan userId al
-    const decoded = jwt.verify(token, process.env.JWT_SECRET!) as { id: number };
+    const decoded = jwt.verify(token, process.env.JWT_SECRET) as { id: number };
     userId = decoded.id;
+    console.log('[QUIZ API] User ID:', userId);
 
     // Request body'i doğrula
     try {
@@ -163,6 +172,9 @@ export async function POST(request: NextRequest) {
     });
 
   } catch (error) {
+    // Gerçek hatayı console'a yazdır
+    console.error('[QUIZ API ERROR]', error);
+    
     // Hata logu
     logger.error('quiz', error as Error, {
       action: 'create',
