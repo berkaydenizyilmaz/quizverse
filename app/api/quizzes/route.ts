@@ -135,17 +135,22 @@ export async function POST(request: NextRequest) {
     });
 
     // Sonra user interactions'ı quiz_id ile birlikte oluştur
-    await prisma.userQuestionInteraction.createMany({
-      data: validatedBody.questions.map(q => ({
-        user_id: userId!,
-        question_id: q.id,
-        quiz_id: quiz.id,
-        is_correct: q.isCorrect,
-        user_answer: q.userAnswer,
-        answered_at: new Date()
-      })),
+    console.log('[QUIZ API] Creating interactions for quiz:', quiz.id, 'Questions:', validatedBody.questions.length);
+    const interactionsData = validatedBody.questions.map(q => ({
+      user_id: userId!,
+      question_id: q.id,
+      quiz_id: quiz.id,
+      is_correct: q.isCorrect,
+      user_answer: q.userAnswer,
+      answered_at: new Date()
+    }));
+    console.log('[QUIZ API] Interactions data:', JSON.stringify(interactionsData));
+    
+    const result = await prisma.userQuestionInteraction.createMany({
+      data: interactionsData,
       skipDuplicates: true // Aynı kayıt varsa atla
     });
+    console.log('[QUIZ API] Created interactions count:', result.count);
 
     // Kullanıcı istatistiklerini güncelle
     await prisma.user.update({
