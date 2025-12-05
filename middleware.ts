@@ -1,5 +1,6 @@
 import { NextResponse } from "next/server";
 import type { NextRequest } from "next/server";
+import { jwtVerify } from 'jose';
 
 export async function middleware(request: NextRequest) {
     try {
@@ -49,9 +50,11 @@ export async function middleware(request: NextRequest) {
             }
 
             try {
-                // Token'dan role'ü direkt oku (fetch yerine)
-                const jwt = require('jsonwebtoken');
-                const decoded = jwt.verify(token, process.env.JWT_SECRET!) as { 
+                // Token'dan role'ü direkt oku (Edge runtime uyumlu jose kullan)
+                const secret = new TextEncoder().encode(process.env.JWT_SECRET!);
+                const { payload } = await jwtVerify(token, secret);
+                
+                const decoded = payload as { 
                     id: number; 
                     email: string; 
                     username: string; 
