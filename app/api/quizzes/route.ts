@@ -122,7 +122,7 @@ export async function POST(request: NextRequest) {
     quizSchema.parse(body);
     const validatedBody = body as z.infer<typeof quizSchema>;
 
-    // Quiz sonuçlarını kaydet
+    // Quiz sonuçlarını kaydet (önce quiz'i oluştur)
     const quiz = await prisma.quiz.create({
       data: {
         user_id: userId,
@@ -130,16 +130,19 @@ export async function POST(request: NextRequest) {
         total_questions: validatedBody.totalQuestions,
         correct_answers: validatedBody.correctAnswers,
         incorrect_answers: validatedBody.incorrectAnswers,
-        score: validatedBody.score,
-        user_interactions: {
-          create: validatedBody.questions.map(q => ({
-            user_id: userId!,
-            question_id: q.id,
-            is_correct: q.isCorrect,
-            user_answer: q.userAnswer
-          }))
-        }
+        score: validatedBody.score
       }
+    });
+
+    // Sonra user interactions'ı quiz_id ile birlikte oluştur
+    await prisma.userQuestionInteraction.createMany({
+      data: validatedBody.questions.map(q => ({
+        user_id: userId!,
+        question_id: q.id,
+        quiz_id: quiz.id,
+        is_correct: q.isCorrect,
+        user_answer: q.userAnswer
+      }))
     });
 
     // Kullanıcı istatistiklerini güncelle

@@ -48,31 +48,21 @@ export async function middleware(request: NextRequest) {
             }
 
             try {
-                const apiUrl = `${request.nextUrl.origin}/api/auth`;
-                const response = await fetch(apiUrl, {
-                    headers: {
-                        'Cookie': `token=${token}`
-                    },
-                    cache: 'no-cache'
-                });
+                // Token'dan role'ü direkt oku (fetch yerine)
+                const jwt = require('jsonwebtoken');
+                const decoded = jwt.verify(token, process.env.JWT_SECRET!) as { 
+                    id: number; 
+                    email: string; 
+                    username: string; 
+                    role: string 
+                };
 
-                if (!response.ok) {
-                    return NextResponse.redirect(new URL("/auth", request.url));
-                }
-
-                const apiData = await response.json();
-
-                if (!apiData.success || !apiData.data || !apiData.data.user) {
-                    return NextResponse.redirect(new URL("/auth", request.url));
-                }
-
-                const user = apiData.data.user;
-
-                if (user.role !== "admin") {
+                if (decoded.role !== "admin") {
                     return NextResponse.redirect(new URL("/", request.url));
                 }
 
             } catch (error) {
+                // Token geçersiz veya süresi dolmuş
                 return NextResponse.redirect(new URL("/auth", request.url));
             }
         }
