@@ -140,7 +140,7 @@ export async function POST(request: NextRequest) {
       throw new APIError("Kategori belirtilmedi", 400);
     }
 
-    const model = genAI.getGenerativeModel({ model: "gemini-pro" });
+    const model = genAI.getGenerativeModel({ model: "gemini-flash-latest" });
     const prompt = getPrompt(category);
 
     let retryCount = 0;

@@ -141,7 +141,7 @@ export async function POST(request: NextRequest) {
     }
 
     const categoryText = await getCategoryName(Number(category));
-    const model = genAI.getGenerativeModel({ model: "gemini-pro" });
+    const model = genAI.getGenerativeModel({ model: "gemini-flash-latest" });
 
     // AI prompt'unu hazırla
     const prompt = `"${categoryText}" konusunda 10 adet özgün çoktan seçmeli soru üret.
