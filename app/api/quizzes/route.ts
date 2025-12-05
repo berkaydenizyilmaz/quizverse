@@ -147,8 +147,7 @@ export async function POST(request: NextRequest) {
     console.log('[QUIZ API] Interactions data:', JSON.stringify(interactionsData));
     
     const result = await prisma.userQuestionInteraction.createMany({
-      data: interactionsData,
-      skipDuplicates: true // Aynı kayıt varsa atla
+      data: interactionsData
     });
     console.log('[QUIZ API] Created interactions count:', result.count);
 
