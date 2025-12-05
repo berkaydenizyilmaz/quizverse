@@ -44,6 +44,7 @@ export async function middleware(request: NextRequest) {
 
         if (adminPaths.some((ap) => path.startsWith(ap))) {
             if (!token) {
+                console.log('[MIDDLEWARE] Admin path - No token');
                 return NextResponse.redirect(new URL("/auth", request.url));
             }
 
@@ -57,12 +58,18 @@ export async function middleware(request: NextRequest) {
                     role: string 
                 };
 
+                console.log('[MIDDLEWARE] Admin check - User:', decoded.username, 'Role:', decoded.role);
+
                 if (decoded.role !== "admin") {
+                    console.log('[MIDDLEWARE] Access denied - Not admin');
                     return NextResponse.redirect(new URL("/", request.url));
                 }
 
+                console.log('[MIDDLEWARE] Admin access granted');
+
             } catch (error) {
                 // Token geçersiz veya süresi dolmuş
+                console.log('[MIDDLEWARE] Token verification failed:', error);
                 return NextResponse.redirect(new URL("/auth", request.url));
             }
         }

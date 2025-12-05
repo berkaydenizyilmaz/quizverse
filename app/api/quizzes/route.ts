@@ -141,8 +141,10 @@ export async function POST(request: NextRequest) {
         question_id: q.id,
         quiz_id: quiz.id,
         is_correct: q.isCorrect,
-        user_answer: q.userAnswer
-      }))
+        user_answer: q.userAnswer,
+        answered_at: new Date()
+      })),
+      skipDuplicates: true // Aynı kayıt varsa atla
     });
 
     // Kullanıcı istatistiklerini güncelle
