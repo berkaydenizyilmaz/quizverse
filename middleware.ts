@@ -1,6 +1,5 @@
 import { NextResponse } from "next/server";
 import type { NextRequest } from "next/server";
-import { logger } from "@/lib/logger";
 
 export async function middleware(request: NextRequest) {
     try {
@@ -84,12 +83,6 @@ export async function middleware(request: NextRequest) {
 
         return NextResponse.next();
     } catch (error) {
-        // Sistem hatası logu
-        logger.systemError(error as Error, 'middleware', {
-            path: request.nextUrl.pathname,
-            method: request.method
-        });
-
         return NextResponse.json(
             { success: false, message: "Sistem hatası" },
             { status: 500 }
