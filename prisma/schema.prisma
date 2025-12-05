@@ -80,8 +80,6 @@ model UserQuestionInteraction {
   user        User      @relation(fields: [user_id], references: [id])
   question    Question  @relation(fields: [question_id], references: [id])
   quiz        Quiz?     @relation(fields: [quiz_id], references: [id])
-
-  @@unique([user_id, question_id, quiz_id])
 }
 
 model Leaderboard {
